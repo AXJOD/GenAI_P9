@@ -100,7 +100,7 @@ st.title("🔎 LangChain - Multi-Source RAG")
 """
 This app is a RAG-based Q&A system that answers questions based on data from multiple sources.
 You can upload a PDF, or it will use the default data sources:
-- A default PDF document (`./pdfs/CSS Color Attributes.pdf`)
+- A default PDF document
 - A scientific paper from Arxiv ("Attention Is All You Need")
 - A local SQLite database with employee information
 """
